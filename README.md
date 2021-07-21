@@ -10,5 +10,6 @@ My Python learning path 🐍
 3. Dictionary comprehensions - dict_comprehensions.py
 4. Lamda function - lambda.py
 5. Higher order functions for data filtering - data_filtering.py
+6. Debugging practice file - debugging.py
 
 **Made with 💙 by MauVal96**
