@@ -11,5 +11,6 @@ My Python learning path 🐍
 4. Lamda function - lambda.py
 5. Higher order functions for data filtering - data_filtering.py
 6. Debugging practice file - debugging.py
+7. Handling exceptions - exceptions.py
 
 **Made with 💙 by MauVal96**
