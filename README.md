@@ -9,5 +9,6 @@ My Python learning path 🐍
 2. List comprehensions - list_comprehensions.py
 3. Dictionary comprehensions - dict_comprehensions.py
 4. Lamda function - lambda.py
+5. Higher order functions for data filtering - data_filtering.py
 
 **Made with 💙 by MauVal96**
