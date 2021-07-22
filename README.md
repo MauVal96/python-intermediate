@@ -12,6 +12,7 @@ My Python learning path 🐍
 5. Higher order functions for data filtering - data_filtering.py
 6. Debugging practice file - debugging.py
 7. Handling exceptions - exceptions.py
-8. Assert Statements - assert_statements.py
+8. Assert statements - assert_statements.py
+9. File management - files.py
 
 **Made with 💙 by MauVal96**
